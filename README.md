@@ -129,69 +129,9 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
    - Project management principles
    - Quality assurance practices
 
-## 🛠️ Technical Stack
 
-### Frontend
-- **React 18** with TypeScript
-- **Tailwind CSS** for styling
-- **Lucide React** for icons
-- **React Router** for navigation
-- **Vite** for build tooling
 
-### AI & Processing
-- **Groq API** for AI-powered analysis
-- **PDF.js** for PDF parsing
-- **Mammoth.js** for DOCX processing
-- **React Media Recorder** for interview recording
 
-### Additional Libraries
-- **jsPDF** for report generation
-- **Axios** for API communication
-- **React Dropzone** for file uploads
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn package manager
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/your-username/skilln.git
-
-# Navigate to project directory
-cd skilln
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### Environment Setup
-Create a `.env` file in the root directory:
-```env
-VITE_GROQ_API_KEY=your_groq_api_key
-VITE_MODEL_ID=meta-llama/llama-4-scout-17b-16e-instruct
-VITE_API_URL=https://api.groq.com/openai/v1/chat/completions
-```
-
-## 📱 Responsive Design
-
-SkillN is fully responsive and optimized for:
-- **Desktop** (1920px and above)
-- **Laptop** (1024px - 1919px)
-- **Tablet** (768px - 1023px)
-- **Mobile** (320px - 767px)
-
-## 🔐 Authentication System
-
-### Demo Credentials
-For testing purposes, use:
-- **Username**: demo@skilln.com
-- **Password**: password123
 
 ### User Management
 - Secure login/signup system
