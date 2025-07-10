@@ -129,45 +129,6 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
    - Project management principles
    - Quality assurance practices
 
-
-
-
-
-### User Management
-- Secure login/signup system
-- Session management with localStorage
-- Protected routes for premium content
-- User profile management
-
-## 📊 Analytics & Tracking
-
-### Interview Performance
-- Response quality scoring (1-100 scale)
-- Topic-wise performance breakdown
-- Improvement trend analysis
-- Comparative benchmarking
-
-### Learning Progress
-- Study material completion tracking
-- Time spent on different topics
-- Skill development progression
-- Achievement milestones
-
-## 🎨 Design Philosophy
-
-### Modern UI/UX
-- **Dark Theme**: Professional dark interface with proper contrast
-- **Apple-Level Design**: Attention to detail and intuitive user experience
-- **Micro-Interactions**: Smooth animations and hover effects
-- **Accessibility**: WCAG compliant design principles
-
-### Color Scheme
-- **Primary**: Blue gradient (#0ea5e9 to #0284c7)
-- **Secondary**: Purple accent (#7c3aed)
-- **Success**: Green (#059669)
-- **Warning**: Yellow (#eab308)
-- **Error**: Red (#dc2626)
-
 ## 🔄 Continuous Updates
 
 ### Content Updates
@@ -184,39 +145,12 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
 - [ ] Mobile application development
 - [ ] Integration with job portals
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
 ### Development Guidelines
 1. Follow TypeScript best practices
 2. Maintain responsive design principles
 3. Write comprehensive tests
 4. Document new features thoroughly
 5. Follow the existing code style
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support & Contact
-
-### Get Help
-- **Email**: support@skilln.com
-- **Technical Support**: tech@skilln.com
-- **Business Inquiries**: business@skilln.com
-
-### Social Media
-- **GitHub**: [ravikant-diwakar](https://github.com/ravikant-diwakar)
-- **LinkedIn**: [ravikantdiwakar](https://www.linkedin.com/in/ravikantdiwakar/)
-
-### Office
-```
-SkillN Headquarters
-123 Innovation Drive
-Tech Valley, CA 94000
-United States
-```
 
 ## 🏆 Success Stories
 
@@ -226,16 +160,8 @@ United States
 
 > "The LinkedIn optimization suggestions increased my profile views by 300% and led to multiple recruiter contacts." - **Priya Sharma, Data Scientist**
 
-## 📈 Platform Statistics
-
-- **10,000+** Successful career transformations
-- **95%** User success rate in landing interviews
-- **500+** Companies covered in preparation materials
-- **50+** Expert-curated study guides
-- **24/7** AI-powered assistance
 
 ---
 
-**Built with ❤️ by the SkillN Team**
 
 *Empowering careers through AI-powered interview preparation*
