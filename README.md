@@ -1,7 +1,5 @@
 # SkillN - AI-Powered Interview Preparation Platform
 
-![SkillN Logo](public/logo-new.png)
-
 ## 🚀 Overview
 
 SkillN is a cutting-edge AI-powered interview preparation platform designed to help job seekers excel in technical interviews. Our platform combines advanced artificial intelligence with comprehensive career resources to provide personalized guidance, practice opportunities, and expert insights.
