@@ -145,22 +145,6 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
 - [ ] Mobile application development
 - [ ] Integration with job portals
 
-### Development Guidelines
-1. Follow TypeScript best practices
-2. Maintain responsive design principles
-3. Write comprehensive tests
-4. Document new features thoroughly
-5. Follow the existing code style
-
-## 🏆 Success Stories
-
-> "SkillN's AI-powered analysis helped me identify exactly what to focus on. I landed my dream job at a FAANG company within 3 months!" - **Sarah Chen, Software Engineer**
-
-> "The interview simulator was incredibly realistic. It prepared me for the exact type of questions I faced in my actual interviews." - **Michael Rodriguez, Full Stack Developer**
-
-> "The LinkedIn optimization suggestions increased my profile views by 300% and led to multiple recruiter contacts." - **Priya Sharma, Data Scientist**
-
-
 ---
 
 
