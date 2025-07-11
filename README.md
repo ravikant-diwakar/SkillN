@@ -1,3 +1,7 @@
+<img width="839" height="287" alt="skilln-logo" src="https://github.com/user-attachments/assets/0f4d79e1-b3b4-41d8-ba9d-4b3e8a641087" />
+
+
+
 # SkillN - AI-Powered Interview Preparation Platform
 
 ## 🚀 Overview
