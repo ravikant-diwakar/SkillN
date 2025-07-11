@@ -134,7 +134,7 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
    - Project management principles
    - Quality assurance practices
 
-## 🔄 Continuous Updates
+##  Continuous Updates
 
 ### Content Updates
 - Regular addition of new study materials
