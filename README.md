@@ -149,3 +149,12 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
 
 
 *Empowering careers through AI-powered interview preparation*
+
+
+
+🏆 Premium Advantage
+<table> <tr> <th></th> <th>Free Tier</th> <th>Premium Tier</th> </tr> <tr> <td><strong>Interview Prep</strong></td> <td>Basic roadmap</td> <td>🔒 Company-specific battle plans</td> </tr> <tr> <td><strong>Learning Resources</strong></td> <td>Community notes</td> <td>🔒 Expert-curated tech bibles (2025 Edition)</td> </tr> <tr> <td><strong>Career Services</strong></td> <td>-</td> <td>🔒 1:1 mentorship sessions</td> </tr> </table>
+Premium Highlights:
+✅ Unlimited AI mock interviews
+✅ Priority technical support
+✅ Early access to new features
