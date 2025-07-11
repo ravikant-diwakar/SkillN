@@ -1,9 +1,5 @@
-<p align="center">
-<img width="339" height="287" alt="skilln-logo" src="https://github.com/user-attachments/assets/0f4d79e1-b3b4-41d8-ba9d-4b3e8a641087" />
-</p>
 
-
-<p align="center"> <img width="339" height="287" alt="SkillN Logo" src="https://github.com/user-attachments/assets/0f4d79e1-b3b4-41d8-ba9d-4b3e8a641087" /> <br> <strong>AI-Powered Interview Mastery Platform</strong> </p><h1 align="center">🚀 SkillN: Your Smart Interview Copilot</h1><p align="center"> <em>The next-generation platform transforming technical interview preparation through AI-driven insights and personalized learning</em> </p>
+<p align="center"> <img width="339" height="287" alt="SkillN Logo" src="https://github.com/user-attachments/assets/0f4d79e1-b3b4-41d8-ba9d-4b3e8a641087" /> <br> <strong>AI-Powered Interview Mastery Platform</strong> </p><p align="center"> <em>The next-generation platform transforming technical interview preparation through AI-driven insights and personalized learning</em> </p>
 
 ## Overview
 
