@@ -36,7 +36,7 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
 - **Difficulty Levels**: Content organized by Beginner, Intermediate, and Advanced levels
 - **Regular Updates**: Content updated for 2025 interview trends
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Quick Start
 1. **Visit SkillN** - Navigate to our platform
@@ -55,21 +55,21 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
 | Career Guidance | ❌ | ✅ 1-on-1 sessions |
 | Performance Analytics | ❌ | ✅ Advanced metrics |
 
-## 🔥 Premium Features
+## Premium Features
 
-### 🛣️ Advanced Interview Preparation Roadmap
+### 🛣Advanced Interview Preparation Roadmap
 - Step-by-step interview preparation guide
 - Structured learning paths for different roles
 - Company-specific preparation strategies
 - Timeline-based study plans
 
-### 👨‍💼 Expert Career Resources
+### Expert Career Resources
 - Technical PI Guide 2024 (Latest tips and strategies)
 - Mock interview sessions with industry experts
 - One-on-one career guidance and mentorship
 - Personalized career coaching sessions
 
-### 🎯 Comprehensive Career Tools
+### Comprehensive Career Tools
 **Placement Preparation Resources:**
 - Aptitude practice with IndiaBix integration
 - PrepInsta learning modules
