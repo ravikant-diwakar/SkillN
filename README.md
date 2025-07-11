@@ -3,7 +3,7 @@
 </p>
 
 
-# SkillN - AI-Powered Interview Preparation Platform
+## SkillN - AI-Powered Interview Preparation Platform
 
 ## 🚀 Overview
 
