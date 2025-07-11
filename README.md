@@ -4,16 +4,16 @@
 
 SkillN is a cutting-edge AI-powered interview preparation platform designed to help job seekers excel in technical interviews. Our platform combines advanced artificial intelligence with comprehensive career resources to provide personalized guidance, practice opportunities, and expert insights.
 
-## ✨ Key Features
+## Key Features
 
-### 🤖 AI-Powered Resume Analysis
+### AI-Powered Resume Analysis
 - **Intelligent Resume Parsing**: Upload PDF or DOCX files for instant analysis
 - **Personalized Topic Suggestions**: AI identifies key areas to focus on based on your experience
 - **Priority-Based Learning**: Topics ranked by importance (1-10 scale) for efficient preparation
 - **Comprehensive Analysis**: Detailed breakdown of projects, experience, and certifications
 - **Downloadable Reports**: Generate PDF reports with complete analysis and study plans
 
-### 🎯 AI Interview Simulator
+### AI Interview Simulator
 - **Realistic Mock Interviews**: Practice with AI-generated questions tailored to your resume
 - **Real-Time Recording**: Audio/video recording with instant transcription
 - **Live AI Feedback**: Get immediate analysis and scoring of your responses
@@ -21,7 +21,7 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
 - **Performance Analytics**: Track progress with detailed scoring and improvement suggestions
 - **Question Navigation**: Move between questions with pause/resume functionality
 
-### 💼 LinkedIn Profile Optimization
+### LinkedIn Profile Optimization
 - **AI-Powered Suggestions**: Get personalized recommendations for profile enhancement
 - **Keyword Optimization**: Industry-specific keywords to improve visibility
 - **Professional Headlines**: Compelling headlines that attract recruiters
@@ -29,14 +29,14 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
 - **Experience Optimization**: Transform job descriptions into achievement-focused content
 - **Skills & Endorsements**: Strategic skill recommendations for your target roles
 
-### 📚 Smart Prep Resources
+### Smart Prep Resources
 - **Comprehensive Study Notes**: 14+ categories covering all technical topics
 - **Interactive Learning**: Searchable and filterable content library
 - **GitHub Integration**: Direct access to curated study materials
 - **Difficulty Levels**: Content organized by Beginner, Intermediate, and Advanced levels
 - **Regular Updates**: Content updated for 2025 interview trends
 
-## 🔐 Premium Content & Features
+## Premium Content & Features
 
 ### Free Tier
 - ✅ Basic resume analysis
