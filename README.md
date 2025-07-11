@@ -57,7 +57,7 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
 
 ## Premium Features
 
-### 🛣Advanced Interview Preparation Roadmap
+### Advanced Interview Preparation Roadmap
 - Step-by-step interview preparation guide
 - Structured learning paths for different roles
 - Company-specific preparation strategies
