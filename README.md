@@ -39,26 +39,26 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
 ## Premium Content & Features
 
 ### Free Tier
-- ✅ Basic resume analysis
-- ✅ Limited AI interview questions (5 questions)
-- ✅ Basic LinkedIn suggestions
-- ✅ Access to public study notes
-- ✅ Community resources
+- [x] Basic resume analysis
+- [x] Limited AI interview questions (5 questions)
+- [x] Basic LinkedIn suggestions
+- [x] Access to public study notes
+- [x] Community resources
 
 ### Premium Tier (Login Required)
-- 🔒 **Advanced Interview Preparation Roadmap**
+-  **Advanced Interview Preparation Roadmap**
   - Step-by-step interview preparation guide
   - Structured learning paths for different roles
   - Company-specific preparation strategies
   - Timeline-based study plans
 
-- 🔒 **Expert Career Resources**
+-  **Expert Career Resources**
   - Technical PI Guide 2024 (Latest tips and strategies)
   - Mock interview sessions with industry experts
   - One-on-one career guidance and mentorship
   - Personalized career coaching sessions
 
-- 🔒 **Comprehensive Career Tools**
+-  **Comprehensive Career Tools**
   - **Placement Preparation Resources**:
     - Aptitude practice with IndiaBix integration
     - PrepInsta learning modules
@@ -70,14 +70,14 @@ SkillN is a cutting-edge AI-powered interview preparation platform designed to h
     - Complete HR Round preparation guide
     - Industry-specific interview strategies
 
-- 🔒 **Advanced AI Features**
+-  **Advanced AI Features**
   - Unlimited AI interview simulations
   - Advanced performance analytics
   - Custom interview scenarios
   - Detailed feedback reports
   - Progress tracking and improvement metrics
 
-## 📖 Study Materials Covered
+##  Study Materials Covered
 
 ### Core Computer Science Topics
 1. **Object-Oriented Programming (OOPs)**
