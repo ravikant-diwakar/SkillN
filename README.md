@@ -1,8 +1,5 @@
 <p align="center"> <img width="339" height="287" alt="SkillN Logo" src="https://github.com/user-attachments/assets/0f4d79e1-b3b4-41d8-ba9d-4b3e8a641087" /> <br> <strong>AI-Powered Interview Mastery Platform</strong> </p><h1 align="center">SkillN: Your Smart Interview Copilot</h1><p align="center"> <em>The next-generation platform transforming technical interview preparation through AI-driven insights and personalized learning</em> </p>
 
-
-## Overview
-
 SkillN is a cutting-edge AI-powered interview preparation platform designed to help job seekers excel in technical interviews. Our platform combines advanced artificial intelligence with comprehensive career resources to provide personalized guidance, practice opportunities, and expert insights.
 
 ## ✨ Key Features
